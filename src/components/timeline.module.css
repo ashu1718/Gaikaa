@@ -1,0 +1,11 @@
+.headCount{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20%;
+}
+.card1{
+    margin-top: 10%;
+}
+.card2{
+    margin-top: 5%;
+}

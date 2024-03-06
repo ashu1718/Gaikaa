@@ -1,0 +1,42 @@
+
+.heroClass{
+    margin: 10% 0;
+    box-sizing: border-box;
+}
+.heroHead1{
+    
+    font-weight: 500;
+    font-size: var(--font-size-hero-scalable);
+    font-family: var(--font-regular);
+    line-height: 1;
+    color:  rgb(27, 0, 29);
+    letter-spacing: -.06rem;
+    
+    font-size: 150px;
+    margin-left: 15%;
+    bottom: -3.5%;
+}
+.heroHead2{
+    font-weight: 500;
+    font-size: var(--font-size-hero-scalable);
+    font-family: var(--font-regular);
+    line-height: 1;
+    color:  rgb(28, 0, 30);
+    letter-spacing: -.06rem;
+    
+    font-size: 150px;
+    margin-left: 20%;
+    bottom: -3.5%;
+}
+.heroHead3{
+    font-weight: 500;
+    font-size: var(--font-size-hero-scalable);
+    font-family: var(--font-regular);
+    line-height: 1;
+    color:  rgb(27, 0, 29);
+    letter-spacing: -.06rem;
+    
+    font-size: 150px;
+    margin-left: 60%;
+    bottom: -3.5%;
+}
